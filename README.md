@@ -1,5 +1,9 @@
 # CENTRAI — Prédiction du genre des films avec Naive Bayes
 
+[![Deploy to GitHub Pages](https://github.com/MendDevs/centrai/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/MendDevs/centrai/actions/workflows/deploy-pages.yml)
+
+🌐 **Live Demo:** https://menddevs.github.io/centrai/
+
 Documentation:
 - Version française: ce fichier
 - English version: `README_EN.md`

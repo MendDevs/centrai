@@ -1,5 +1,9 @@
 # CENTRAI — Movie Genre Prediction with Naive Bayes
 
+[![Deploy to GitHub Pages](https://github.com/MendDevs/centrai/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/MendDevs/centrai/actions/workflows/deploy-pages.yml)
+
+🌐 **Live Demo:** https://menddevs.github.io/centrai/
+
 Project by **Emmanuel Markie Morris** and **Kemmegne Dassi Sherryl**.
 
 ## Project Context
