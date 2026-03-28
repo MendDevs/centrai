@@ -8,7 +8,6 @@ Documentation:
 - Version française: ce fichier
 - English version: `README_EN.md`
 
-Projet réalisé par **Emmanuel Markie Morris** et **Kemmegne Dassi Sherryl**.
 
 ## Contexte du projet
 
