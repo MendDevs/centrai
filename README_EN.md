@@ -4,7 +4,7 @@
 
 🌐 **Live Demo:** https://menddevs.github.io/centrai/
 
-Project by **Emmanuel Markie Morris** and **Kemmegne Dassi Sherryl**.
+
 
 ## Project Context
 
